@@ -1,4 +1,4 @@
-# Eldralis: Primal Awakening – RPG System for SillyTavern
+# Eldralis: Primal Awakening – RPG System for SillyTavern ( Beta 1 for Testing ) 
 
 A complete Dark Fluff anthro RPG system for SillyTavern, powered by DeepSeek V4 Flash Thinking.
 
